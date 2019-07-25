@@ -15,9 +15,9 @@ Please cite this repo if this script is used in any published work.
 - normalisation of max/min values based on individual files OR on max/min across all files
 
 ## Example data
-Two `.tif` files exported from a SenseFly ThermoMap camera are located in folder `example_data`.
+Two `.tif` files exported from a SenseFly ThermoMap camera are located in folder `example_input/`.
 
 ## Example output
-Examples data with settings `globalrange = False` and `colourmap = 'hot'`:
+Example data output with settings `globalrange = False` and `colourmap = 'hot'`:
 ![ThermoMAP_tif_example_001.tif output](example_output/ThermoMAP_tif_example_001.tif.png)
 ![ThermoMAP_tif_example_002.tif output](example_output/ThermoMAP_tif_example_002.tif.png)
