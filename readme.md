@@ -2,7 +2,7 @@
 Landon Halloran (www.ljsh.ca)
 
 ## Description
-Simple script to do a batch conversion of TIFF files from a thermal camera (e.g. SenseFly ThermoMap) to PNG files. Useful for rapid analysis of thermal data before more stitching, radiometric, etc. 
+Simple script to do a batch conversion of TIFF files from a thermal camera (e.g. SenseFly ThermoMap) to PNG files. Useful for rapid analysis of thermal data before more stitching, radiometric calibration, etc. 
 
 The script can also do a global normalisation of values.
 
